@@ -1,1 +1,1 @@
-# titanic-classification
+# Titanic Classification — Predicting Passenger Survival
